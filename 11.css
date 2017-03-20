@@ -1,6 +1,7 @@
 Body
 {
 	Background-color:lightblue;
+	Border:dotted gray;
 	Margin:5% 5% 5% 5%;
 	Padding:5%;	
 }/*body*/
