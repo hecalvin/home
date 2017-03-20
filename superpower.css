@@ -1,0 +1,27 @@
+Body
+{
+	Background-color:lightgreen;
+	Border:solid blue;
+	Margin:5% 5% 5% 5%;
+	Padding:5%;	
+}/*body*/
+
+h1
+{
+	font-family:Arial black;
+	background-color:darkturquoise;
+}/*h1*/
+
+h2
+{
+	font-family:sans-serif;
+	background-color:darkturquoise;
+}
+P
+{
+	font-family:sans-serif
+}/*p*/
+
+
+	
+	
