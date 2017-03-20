@@ -1,0 +1,29 @@
+Body
+{
+	Background-color:lightblue;
+	Border:solid red;
+	Margin:5% 5% 5% 5%;
+	Padding:5%;	
+}/*body*/
+
+h1
+{
+	font-family:Arial black;
+	color:blue;
+	background-color:orange;
+}/*h1*/
+
+h2
+{
+	font-family:sans-serif;
+	color:blue;
+	background-color:orange;
+}
+P
+{
+	font-family:sans-serif
+}/*p*/
+
+
+	
+	
