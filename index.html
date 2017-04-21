@@ -1,15 +1,34 @@
 <!doctype html>
 <html>
 	<head>
-	<meta charset="UTF-8">
-	<title>Welcome to my page!</title>
+		<meta charset="UTF-8">
+		<script src = type="text/javascript"></script>
+		<title>Welcome to my page!</title>
 	</head>
 	<body>
 		<h1>Welcome to my page!</h1>
+		<script>
+		function myFunction() {
+		document.body.style.backgroundColor = "red";
+		}
+		</script>
+		<script>
+		function changecolour() {
+		document.body.style.backgroundColor = "yellow";
+		}
+		</script>
+		<script>
+		function changecolour_2() {
+		document.body.style.backgroundColor = "turquoise";
+		}
+		</script>
 		<img src="fake.jpeg" height="400" width="400">
 		<ol>
-			<li><a href="11.html">Superpower</a></li>
-			<li><a href="dl.html">Definitions</a></li>
-		</ol>	
+		<li><a href="11.html">Superpower</a></li>
+		<li><a href="dl.html">Definitions</a></li>
+		</ol> 
+		<button type="button" onclick="myFunction()">Red</button>
+		<button type="button_2" onclick="changecolour()">Yellow</button>
+		<button type="button_3" onclick="changecolour_2()">Turquoise</button>
 	</body>
-</html>
+	</html>
