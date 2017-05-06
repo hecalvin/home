@@ -1,23 +1,19 @@
 Body
 {
-	Background-color:lightblue;
-	Border:solid red;
+	Background-color:lightgreen;
+	Border:solid blue;
 	Margin:5% 5% 5% 5%;
 	Padding:5%;	
 }/*body*/
-
 h1
 {
 	font-family:Arial black;
-	color:blue;
-	background-color:orange;
+	background-color:darkturquoise;
 }/*h1*/
-
 h2
 {
 	font-family:sans-serif;
-	color:blue;
-	background-color:orange;
+	background-color:darkturquoise;
 }
 P
 {
