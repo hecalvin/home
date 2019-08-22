@@ -1,0 +1,39 @@
+body
+{
+    font-family: "Helvetica", "Arial", serif;
+    color: grey;
+    background-color: silver;
+    margin: 1em 10%;
+} /* body */
+ 
+h1
+{
+    color: grey;
+    background-color: transparent;
+} /* h1 */
+ 
+a
+{
+    color: red;
+    background-color: transparent;
+    font-weight: bold;
+    text-decoration: none;
+} /* a */
+ 
+ul
+{
+    padding: 0;
+} /* ul */
+ 
+li
+{
+    float: left;
+    padding: 1em;
+    list-style: none;
+} /* li */
+ 
+img
+{
+    display: block;
+    clear: both;
+} /* li */
